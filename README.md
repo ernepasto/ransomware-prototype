@@ -1,7 +1,7 @@
-# Ransomware program
+# Ransomware program ☠️
 This repository contains a minimal, non-operational ransomware prototype. The code is not intended to function as a real piece of malicious software, it is intentionally simplified so that it can serve as a conceptual bridge between theory and practice.
 
-**Disclaimer:**  
+⚠️ **Disclaimer:**  
 This repository is intended **for educational use only**.
 
 The flow begins with a symmetric key, usually something like an AES key, generated locally on the victim machine. Symmetric cryptography relies on a single secret used both to encrypt and decrypt, which makes it fast and well-suited for transforming large volumes of data. 
